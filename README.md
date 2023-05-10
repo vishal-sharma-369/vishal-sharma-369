@@ -1,5 +1,11 @@
 # **Hi there, I'm Vishal! 👋**
 
+#### I am a passionate web developer with expertise in developing dynamic and user-friendly web interfaces using modern web technologies such as React, Node.js, and Express.js.
+
+- 🔭 I’m currently working on Web development projects using MERN stack
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about web development technologies and frameworks
+
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishal-sharma-369&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sharma-369&layout=compact" />
