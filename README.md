@@ -7,8 +7,9 @@
 - 💬 Ask me about web development technologies and frameworks
 
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishal-sharma-369&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sharma-369&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishal-sharma-369&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sharma-369&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 <div/>
   
   
