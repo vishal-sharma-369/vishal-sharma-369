@@ -12,3 +12,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,figma,xd,mongodb,codepen,babel,bootstrap,express,firebase,git,github,materialui,mysql,nodejs,postman,react,webpack&perline=8" />
   </a>
 </p>
+
+### Contact
+LinkedIn : [https://www.linkedin.com/in/vishal-sharma-7105b3231](https://www.linkedin.com/in/vishal-sharma-7105b3231/)
+<br/>
+Reddit : [https://www.reddit.com/user/vishal_sharma_369](https://www.reddit.com/user/vishal_sharma_369)
