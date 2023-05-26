@@ -24,3 +24,7 @@
 LinkedIn : [https://www.linkedin.com/in/vishal-sharma-7105b3231](https://www.linkedin.com/in/vishal-sharma-7105b3231/)
 <br/>
 Reddit : [https://www.reddit.com/user/vishal_sharma_369](https://www.reddit.com/user/vishal_sharma_369)
+
+## Projects
+ 
+  - Tic Tac Toe Game : https://vishal-sharma-369.github.io/tic-tac-toe/
