@@ -29,3 +29,4 @@ Reddit : [https://www.reddit.com/user/vishal_sharma_369](https://www.reddit.com/
  
   - Tic Tac Toe Game : https://vishal-sharma-369.github.io/tic-tac-toe/
   - Rock Paper Scissor Game : https://vishal-sharma-369.github.io/Rock-Paper-Scissor/
+  - Piano : https://vishal-sharma-369.github.io/piano/
