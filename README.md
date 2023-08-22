@@ -31,3 +31,4 @@ Reddit : [https://www.reddit.com/user/vishal_sharma_369](https://www.reddit.com/
   - Rock Paper Scissor Game : https://vishal-sharma-369.github.io/Rock-Paper-Scissor/
   - Piano : https://vishal-sharma-369.github.io/piano/
   - Memory Game : https://vishal-sharma-369.github.io/Memory-Game-/
+  - Fitness Application : https://exercise-daily.netlify.app/
