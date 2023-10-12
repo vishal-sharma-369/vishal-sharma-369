@@ -1,10 +1,12 @@
 # **Hi there, I'm Vishal! 👋**
 
-#### I am a passionate web developer with expertise in developing dynamic and user-friendly web interfaces using modern web technologies such as React, Node.js, and Express.js.
+### I am a passionate web developer with expertise in developing dynamic and user-friendly web interfaces using modern web technologies such as React, Node.js, and Express.js.
 
 - 🔭 I’m currently working on Web development projects using MERN stack
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about web development technologies and frameworks
+
+[![An image of @vishalsharma369's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalsharma369)](https://holopin.io/@vishalsharma369)
 
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishal-sharma-369&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
@@ -19,6 +21,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,figma,xd,mongodb,codepen,babel,bootstrap,express,firebase,git,github,materialui,mysql,nodejs,postman,react,webpack&perline=8" />
   </a>
 </p>
+
 
 ### Contact
 LinkedIn : [https://www.linkedin.com/in/vishal-sharma-7105b3231](https://www.linkedin.com/in/vishal-sharma-7105b3231/)
